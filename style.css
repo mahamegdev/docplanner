@@ -1,0 +1,199 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+      
+    margin-top: 25px;
+}
+#imgnavbar {
+    width: 280px;
+    height: 30px;
+}
+
+#career {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cadetblue;
+    margin: 15px;
+    text-decoration: none;    
+}
+.centerimg {
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    }
+.firstsection {
+display: flex;
+flex-direction: column;
+align-items: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.text {
+    display: flex;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   max-width: 70%;
+   color: darkslategrey;
+   font-weight: 100;
+   font-size: 16px;
+    line-height: 30px;
+}
+
+h1 {
+    font-weight: 50;
+    color: darkcyan;
+}
+
+.troiscartes {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 150;
+    max-width: 75%;
+    margin: auto;
+    color: beige;
+    padding-right: 90px;
+    padding-top: 100px;
+    padding-left: 90px;
+    padding-bottom : 30px;
+    
+    
+}
+
+.carteun {
+    background-color:cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    justify-content: center;
+    align-content: space-around;
+   
+    
+}
+
+.cartedeux {
+    background-color: dodgerblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    justify-content: center;
+    align-content: space-around;
+    
+    
+}
+
+.cartetrois {
+    background-color:midnightblue;
+    display: flex;
+    flex-wrap:wrap-reverse;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.titrecarte {
+    color: beige;
+}
+
+select {
+    background: none;
+    border: none;
+    text-decoration: underline;
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.secondbodypart {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    max-width: 65%;
+    margin: auto;
+    align-content: space-around ;
+    gap: 100px;
+    }
+
+#secondbodyparttext {
+    display: flex;
+    align-items: center;
+    color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto; 
+    padding: auto;
+    font-size: larger;
+    font-weight: lighter;
+   }
+
+
+ 
+.logo {
+    display: flex;
+    width: 80px;
+    height: 15px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.secondbodypartlogo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    gap: 60px;
+}
+
+.anotherbodypart {
+    display: flex;
+    background-color:lightcyan;
+    max-width: 80%;
+    align-items: center;
+    margin: auto;
+}
+
+#grey {
+    color: darkslategrey;
+}
+
+#leader {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+#patients {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+#appointment {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+#doctors {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkcyan;
+    font-weight: 00;
+}
+
+#footerone {
+
+}
